@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "iview": "^3.0.0",
-    "npm": "^6.11.2",
+    "npm": "^6.14.6",
     "vue": "^2.5.16",
     "vue-router": "^2.8.1"
   },
